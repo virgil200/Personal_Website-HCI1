@@ -1,0 +1,199 @@
+body{
+  margin: 0px;
+  padding: 0px;
+  background-color: black;
+}
+/*topnav*/
+.ul1 {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #cccc00;
+}
+
+.li1 {
+  padding: 5px 5px; 
+  float: right;
+}
+.li1 a {
+  display: block;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+  font-weight: bolder;
+  margin-right: 85px;
+  margin-top: 40px;
+  font-size: 15px;
+  padding: 2px;
+}
+.li1 a:hover {
+  background-color: white;
+  border-radius: 25px;
+}
+.h1{
+  float: left;
+  margin-left: 40px;
+  font-weight: bolder;
+}
+/*FOOTER*/
+.footer {
+  padding-top: 2px;
+  padding-bottom: 1px;
+  background-color:#cccc00;
+  color: black;
+  text-align: center;
+}
+/*body*/
+.body{
+  background-color: #e6e6e6;
+  width: 1170px;
+  height: 500px;
+  margin-left: 90px;
+  column-count: 2;
+}
+/**home*/
+.img1{
+  height: 400px;
+  width: 450px;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+.hi_p{
+  font-size: 30px;
+  font-weight: bolder;
+  color: #cccc00;
+  padding-top: 50px;
+}
+.stud{
+  font-size: 25px;
+  font-weight: bolder;
+}
+.My_inf{
+  font-weight: bolder;
+}
+.home_table{
+  margin-top: 105px;
+  width: 100%;
+}
+/*contact*/
+.body_2{
+  background-color: #e6e6e6;
+  width: 1170px;
+  height: 500px;
+  margin-left: 90px;
+  column-count: 6;
+}
+.img2{
+    height: 400px;
+  width: 450px;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+.con_2s{
+  font-weight: bolder;
+  font-size: 27px;
+  padding-top: 50px;
+  color: #cccc00;
+}
+.con_2{
+  font-weight: bolder;
+  font-size: 15px;
+}
+.in_con{
+  width: 250%;
+  padding: 12px 30px;
+  border-radius: 15px;
+  border: 1px solid yellow;
+  margin-bottom: 5px;
+}
+.in_con2{
+  width: 250%;
+  padding: 47px 30px;
+  border-radius: 15px;
+  border: 1px solid yellow;
+  margin-bottom: 5px;
+}
+.in_con3{
+  width: 285%;
+  padding: 12px 30px;
+  border-radius: 15px;
+  border: 1px solid yellow;
+  margin-bottom: 5px;
+  background-color: yellow;
+}
+/*Education*/
+.body_3{
+  background-color: #e6e6e6;
+  width: 1170px;
+  height: 500px;
+  margin-left: 90px;
+  column-count: 7;
+}
+.edu_class{
+  height: 300px;
+  width: 450px;
+  margin-left: 90px;
+  margin-top: 140px;
+}
+.edu_class1{
+  height: 300px;
+  width: 450px;
+  margin-left: 290px;
+  margin-top: 30px;
+}
+.edu_1{
+  font-weight: bolder;
+  font-size: 27px;
+  padding-top: 50px;
+  color: #cccc00;
+  padding-left: 330px;
+}
+.edu_tb{
+  width: 200%;
+  color: #cccc00;
+}
+.edu_tb1{
+  width: 200%;
+  color: #cccc00;
+  padding-left: 45px;
+}
+/*body3*/
+.body3{
+  background-color: #e6e6e6;
+  width: 1170px;
+  height: 500px;
+  margin-left: 90px;
+  column-count: 0;
+}
+.skill_tab{
+  width: 40%;
+  margin-left: 400px;
+  font-weight: bolder;
+}
+.th1{
+  text-align: left;
+  padding-left: 10px;
+}
+.My_skills{
+  width: 200px;
+  margin-left: 490px;
+}
+.M_Y{
+  text-align: center;
+  font-weight: bolder;
+  font-size: 29px;
+  color: #cccc00;
+}
+/*skill*/
+.body3{
+  background-color: #e6e6e6;
+  width: 1170px;
+  height: 640px;
+  margin-left: 90px;
+}
+.sched{
+  width: 70%;
+  margin-left: 180px;
+}
+
