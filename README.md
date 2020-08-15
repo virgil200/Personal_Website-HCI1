@@ -1,3 +1,2 @@
 # Website
- https://virgil200.Website.io
- /
+ https://virgil200.Website.io/
